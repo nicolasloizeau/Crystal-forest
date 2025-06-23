@@ -100,7 +100,7 @@ renderdraw(scene, colors, view["pos"]);
 
 const canvas = document.getElementById("canvas");
 
-function downloadCanvasImage(canvas, filename = "canvas-image.png") {
+function downloadCanvasImage(canvas, filename = "crystal.png") {
   const dataURL = canvas.toDataURL("image/png");
   const link = document.createElement("a");
   link.href = dataURL;
