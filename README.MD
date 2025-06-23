@@ -1,4 +1,5 @@
 # Crystal Forest
+Some procedural art in Three.js.
 Source code for [https://www.fxhash.xyz/project/crystal-forest-1](https://www.fxhash.xyz/project/crystal-forest-1).
 
 ## Run online
