@@ -9,9 +9,5 @@
     "webpack": "^5.99.9",
     "webpack-cli": "^6.0.1",
     "webpack-glsl-loader": "^1.0.1"
-  },
-  "scripts": {
-    "predeploy": "npx webpack",
-    "deploy": "gh-pages -d dist"
   }
 }

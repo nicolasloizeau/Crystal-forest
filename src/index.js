@@ -110,4 +110,4 @@ function downloadCanvasImage(canvas, filename = "canvas-image.png") {
   document.body.removeChild(link);
 }
 
-downloadCanvasImage(canvas);
+// downloadCanvasImage(canvas);
