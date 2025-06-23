@@ -3,15 +3,3 @@
  * Copyright 2010-2025 Three.js Authors
  * SPDX-License-Identifier: MIT
  */
-
-/** /////////////////////////////////////////////////////////////////////////////////
-//
-// @description Loop Subdivision Surface
-// @about       Smooth subdivision surface modifier for use with three.js BufferGeometry
-// @author      Stephens Nunnally <@stevinz>
-// @license     MIT - Copyright (c) 2022 Stephens Nunnally and Scidian Software
-// @source      https://github.com/stevinz/three-subdivide
-//
-//      See end of file for license details and acknowledgements
-//
-///////////////////////////////////////////////////////////////////////////////////*/
